@@ -1,0 +1,28 @@
+.container{
+    float: left;
+    height: 3221px;
+    width: 231px;
+    background-color:#e6f1f0;
+    color: white;
+    
+    
+    
+
+}
+ .nav-link{
+    color: rgb(1, 0, 0);
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 1.2rem;
+}
+#test{
+    width: 250px;
+    height: 622px;
+    border: 2px solid black;
+    overflow: auto;
+    
+    
+}
+hr{
+    color: rgb(204, 94, 132);
+    
+}
